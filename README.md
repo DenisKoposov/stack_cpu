@@ -1,1 +1,1 @@
-# stack_cpu
+# Stack CPU, assembler and disassembler for it 
